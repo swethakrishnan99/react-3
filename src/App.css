@@ -1,0 +1,35 @@
+body {
+  background: linear-gradient(
+    to top,
+    rgb(211, 115, 160),
+    rgb(138, 224, 224),
+    rgb(211, 115, 160)
+  );
+  background-attachment: fixed;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+form {
+  text-align: center;
+  line-height: 70px;
+  font-size: 25px;
+}
+form label {
+  font-family: "Times New Roman", Times, serif;
+}
+form input {
+  padding: 15px 30px;
+  border-radius: 20px;
+  margin-left: 20px;
+  background-color: rgb(187, 228, 228);
+}
+form button {
+  padding: 10px 80px;
+  border-radius: 30px;
+  background-color: rgb(138, 224, 224);
+  border: 2px solid black;
+  font-size: 25px;
+  margin-top: 50px;
+}
