@@ -3,8 +3,9 @@
   background-color: rgb(138, 224, 224);
   border: 2px solid black;
   margin: auto;
-  max-width: 80%;
+  width: 98%;
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
 }
 .entry-list-item {
@@ -15,8 +16,7 @@
   margin: auto;
   border: 2px solid black;
   border-radius: 20px;
-  margin: 20px;
-  width: 670px;
+  margin: 10px;
 }
 div {
   display: flex;
